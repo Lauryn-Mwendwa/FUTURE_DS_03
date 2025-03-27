@@ -23,8 +23,7 @@ I conducted data preprocessing in Excel to ensure the dataset was clean and read
 
 ## Visualizations and Key Insights
 
-![Dashboard](Dashboard Task 3.png)
-
+![Dashboard](Dashboard%20Task%203.png)
 
 
 
